@@ -1,7 +1,8 @@
-## Level 27
+## Level 28
 ## Objetivo
-Good job getting a shell! Now hurry and grab the password for bandit27!
+There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/repo` via the port `2220`. The password for the user `bandit27-git` is the same as for the user `bandit27`.
 
+Clone the repository and find the password for the next level.
 ## Datos de acceso
 	Server: bandit.labs.overthewire.org
 	User: bandit27
