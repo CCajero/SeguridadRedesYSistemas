@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primer-examen-parcial/Examen Parte 1/Obedient Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5848b93d5a11a7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer-examen-parcial/Examen Parte 1/Warmed up.md",
+                "file": "Retos-Web/picobrowser.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primer-examen-parcial/Examen Parte 1/Warmed up.md",
+                "file": "Retos-Web/picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primer-examen-parcial/Examen Parte 1/Warmed up.md",
+                "file": "Retos-Web/picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primer-examen-parcial/Examen Parte 1/Warmed up.md"
+                "file": "Retos-Web/picobrowser.md"
               }
             }
           },
@@ -169,16 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5848b93d5a11a7e5",
+  "active": "c799a98892f92a8f",
   "lastOpenFiles": [
-    "primer-examen-parcial/Examen Parte 1/Let's warm up.md",
+    "Retos-Web/Client-side-again.md",
+    "Retos-Web/dont-use-client-side.md",
+    "Retos-Web/logon.md",
+    "Retos-Web/picobrowser.md",
+    "Retos-Web/Insp3ct0r.md",
+    "Retos-Web/where are the robots.md",
+    "primer-examen-parcial/Examen Parte 1/Obedient Cat.md",
     "primer-examen-parcial/Examen Parte 1/Warmed up.md",
+    "Retos-Web",
+    "primer-examen-parcial/Examen Parte 1/Let's warm up.md",
     "primer-examen-parcial/Examen Parte 1/Examen  1.md",
     "primer-examen-parcial/Examen Parte 1/Magikarp Ground Mission.md",
     "primer-examen-parcial/Examen Parte 1/Nice Netcat.md",
     "primer-examen-parcial/Examen Parte 1/Tab, tab, Attack.md",
     "primer-examen-parcial/Examen Parte 1/Static ain't always noise.md",
-    "primer-examen-parcial/Examen Parte 1/Obedient Cat.md",
     "primer-examen-parcial/Examen Parte 1/Wave a flag.md",
     "primer-examen-parcial/Examen Parte 3/Plumbing.md",
     "primer-examen-parcial/Examen Parte 3/Glitch Cat.md",
@@ -191,13 +185,7 @@
     "Retos-Bandit/Level 2.md",
     "Retos-Bandit/Level 1.md",
     "Retos-Bandit/Level 0.md",
-    "primer-examen-parcial/Examen Parte 3/runme.py.md",
-    "primer-examen-parcial/Examen Parte 3/PW Crack 3.md",
-    "primer-examen-parcial/Examen Parte 3/PW Crack 2.md",
-    "primer-examen-parcial/Examen Parte 3/PW Crack 1.md",
-    "primer-examen-parcial/Examen Parte 3/fixme2.py.md",
     "primer-examen-parcial/Examen Parte 3",
-    "primer-examen-parcial/Examen Parte 2/what's a net cat.md",
     "primer-examen-parcial/Examen Parte 1",
     "primer-examen-parcial/Examen Parte 2",
     "primer-examen-parcial",
