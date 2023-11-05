@@ -6,6 +6,8 @@ Abrimos el archivo
 picoCTF{dspttjohuifsvcjdpoabrkttds}
 
 Rotamos los caracteres -1 o 25veces 
+
+picoCTF{crossingtherubiconzaqjsscr}
 ## Notas adicionales
 
 ## Referencias

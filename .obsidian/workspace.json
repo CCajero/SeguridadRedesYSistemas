@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Forensic/tunn3l v1s10n/tunn3l v1s10n.md",
+                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Forensic/tunn3l v1s10n/tunn3l v1s10n.md",
+                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Forensic/tunn3l v1s10n/tunn3l v1s10n.md",
+                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Forensic/tunn3l v1s10n/tunn3l v1s10n.md"
+                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md"
               }
             }
           },
@@ -158,33 +158,35 @@
   },
   "active": "7b7b48ebc356ca65",
   "lastOpenFiles": [
-    "Retos-Forensic/tunn3l v1s10n/imagen.bmp",
-    "Retos-Forensic/lik1000/like1000.md",
-    "Retos-Forensic/shark on wire 2/shark on wire 2.md",
-    "Retos-Crypto/waves over lamda.md",
-    "Retos-Crypto/The Numbers.md",
-    "Retos-Crypto/Tapping.md",
-    "Retos-Crypto/13.md",
-    "Retos-Crypto/la cifra de.md",
-    "Retos-Bandit/Level 13.md",
-    "Retos-Bandit/Level 12.md",
-    "Retos-Bandit/Level 16.md",
-    "Retos-Bandit/Level 20.md",
-    "Retos-Bandit/Level 21.md",
-    "Retos-Bandit/Level 22.md",
-    "Retos-Bandit/Level 23.md",
-    "Retos-Bandit/Level 25.md",
-    "Retos-Bandit/Level 27.md",
-    "Retos-Bandit/Level 28.md",
-    "Retos-Bandit/Level 29.md",
-    "Retos-Crypto/caesar.md",
-    "Retos-Crypto/Easy1.md",
-    "segundo-examen-parcial/examen-parte-1/Includes.md",
+    "segundo-examen-parcial/examen-parte-2/Redaction Gone Wrong.md",
+    "segundo-examen-parcial/examen-parte-2/St3g0.md",
+    "segundo-examen-parcial/examen-parte-2/Packets Primer.md",
+    "segundo-examen-parcial/examen-parte-2/Lookey here.md",
+    "segundo-examen-parcial/examen-parte-2/Enhance!.md",
+    "segundo-examen-parcial/examen-parte-2/Wireshark doo dooo do doo....md",
+    "segundo-examen-parcial/examen-parte-2/information.md",
+    "segundo-examen-parcial/examen-parte-1/SQL Direct.md",
+    "segundo-examen-parcial/examen-parte-2",
+    "segundo-examen-parcial/examen-parte-1/Secrets.md",
+    "segundo-examen-parcial/examen-parte-1/Roboto Sans.md",
     "segundo-examen-parcial/examen-parte-1/Search source.md",
+    "segundo-examen-parcial/examen-parte-1/Powe Cookie.md",
+    "segundo-examen-parcial/examen-parte-1/Forbidden Paths.md",
+    "segundo-examen-parcial/examen-parte-1/Includes.md",
+    "Retos-Crypto/basic-mod1.md",
+    "Retos-Crypto/b00tl3gRSA2.md",
+    "Retos-Crypto/13.md",
+    "Retos-Crypto/ReadMyCert.md",
+    "Retos-Crypto/HideToSee.md",
+    "Retos-Crypto/la cifra de.md",
+    "Retos-Crypto/pixelated.md",
+    "Retos-Crypto/Mind Your Ps and Qs.md",
+    "Retos-Crypto/RSA.md",
+    "Retos-Crypto/miniSRA.md",
+    "Retos-Crypto/rsa-pop-quiz.md",
+    "Retos-Crypto/The Numbers.md",
+    "Retos-Forensic/tunn3l v1s10n/imagen.bmp",
     "Retos-Crypto",
-    "segundo-examen-parcial/examen-parte-1/Local Authority.md",
-    "segundo-examen-parcial/examen-parte-1/Inspect HTML.md",
-    "Retos-Web/Cookies.md",
     "Retos-Forensic/c0rrupt/mystery.png",
     "Retos-Forensic/c0rrupt/mystery (1)",
     "Retos-Forensic/MacroHard WeakEdge/~$Forensics is fun.pptm",
@@ -196,7 +198,6 @@
     "Retos-Forensic/tunn3l v1s10n/imagen.bmp.crswap",
     "Retos-Forensic/tunn3l v1s10n/tunn3l_v1s10n",
     "Retos-Forensic/tunn3l v1s10n",
-    "Retos-Forensic/Matryoshka doll",
     "Retos-Forensic/Webnet1/vulture.jpg",
     "Retos-Forensic/c0rrupt/imagenSanada.png",
     "Retos-Forensic/c0rrupt/imagen.png",
