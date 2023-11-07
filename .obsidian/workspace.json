@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md",
+                "file": "Retos-Crypto/b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15a768eac4127e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos-Crypto/miniSRA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md",
+                "file": "Retos-Crypto/b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md",
+                "file": "Retos-Crypto/b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segundo-examen-parcial/examen-parte-2/St3g0.md"
+                "file": "Retos-Crypto/b00tl3gRSA2.md"
               }
             }
           },
@@ -158,8 +170,19 @@
   },
   "active": "7b7b48ebc356ca65",
   "lastOpenFiles": [
-    "segundo-examen-parcial/examen-parte-2/Redaction Gone Wrong.md",
+    "Retos-Crypto/miniSRA.md",
+    "Retos-Crypto/b00tl3gRSA2.md",
+    "Retos-Crypto/rsa-pop-quiz.md",
+    "Retos-Reversing/vault-door-5.md",
+    "Retos-Reversing/vault-door-4.md",
+    "Retos-Reversing/vault-door-3.md",
+    "Retos-Reversing/vault-door-1.md",
+    "Retos-Reversing/vault-door-training.md",
+    "Retos-Web/Cookies.md",
+    "Retos-Web/Client-side-again.md",
     "segundo-examen-parcial/examen-parte-2/St3g0.md",
+    "Retos-Reversing",
+    "segundo-examen-parcial/examen-parte-2/Redaction Gone Wrong.md",
     "segundo-examen-parcial/examen-parte-2/Packets Primer.md",
     "segundo-examen-parcial/examen-parte-2/Lookey here.md",
     "segundo-examen-parcial/examen-parte-2/Enhance!.md",
@@ -174,17 +197,7 @@
     "segundo-examen-parcial/examen-parte-1/Forbidden Paths.md",
     "segundo-examen-parcial/examen-parte-1/Includes.md",
     "Retos-Crypto/basic-mod1.md",
-    "Retos-Crypto/b00tl3gRSA2.md",
     "Retos-Crypto/13.md",
-    "Retos-Crypto/ReadMyCert.md",
-    "Retos-Crypto/HideToSee.md",
-    "Retos-Crypto/la cifra de.md",
-    "Retos-Crypto/pixelated.md",
-    "Retos-Crypto/Mind Your Ps and Qs.md",
-    "Retos-Crypto/RSA.md",
-    "Retos-Crypto/miniSRA.md",
-    "Retos-Crypto/rsa-pop-quiz.md",
-    "Retos-Crypto/The Numbers.md",
     "Retos-Forensic/tunn3l v1s10n/imagen.bmp",
     "Retos-Crypto",
     "Retos-Forensic/c0rrupt/mystery.png",
@@ -197,7 +210,6 @@
     "Retos-Forensic/tunn3l v1s10n/imagen2.bmp",
     "Retos-Forensic/tunn3l v1s10n/imagen.bmp.crswap",
     "Retos-Forensic/tunn3l v1s10n/tunn3l_v1s10n",
-    "Retos-Forensic/tunn3l v1s10n",
     "Retos-Forensic/Webnet1/vulture.jpg",
     "Retos-Forensic/c0rrupt/imagenSanada.png",
     "Retos-Forensic/c0rrupt/imagen.png",
